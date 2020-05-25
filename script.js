@@ -1,1 +1,1 @@
-alert("hai sayang");
+// alert("hai sayang");
