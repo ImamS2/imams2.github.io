@@ -2,7 +2,8 @@
 	"name": "Whatsapp",
 	"short_name": "Whatsapp",
 	"orientation": "portrait",
-	"start_url": "/index.html",
+	"start_url": "whatsapp/index.html",
+	"scope": "whatsapp",
 	"display": "fullscreen",
 	"icon": [
 		{}
